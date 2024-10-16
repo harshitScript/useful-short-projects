@@ -1,0 +1,22 @@
+{
+  "name": "js_multi_threading",
+  "version": "1.0.0",
+  "description": "Multi threading using Web Workers API",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./dist/main.js",
+    "compile": "tsc --w"
+  },
+  "keywords": [
+    "Multi",
+    "Threading",
+    "Web",
+    "Workers",
+    "API."
+  ],
+  "author": "Harshit Bhawsar",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.5.5"
+  }
+}
