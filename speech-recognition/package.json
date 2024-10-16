@@ -1,0 +1,11 @@
+{
+  "name": "speech-recognition",
+  "version": "1.0.0",
+  "description": "A speech to text project",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "harshitScript",
+  "license": "ISC"
+}
