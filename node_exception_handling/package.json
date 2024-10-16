@@ -1,0 +1,12 @@
+{
+  "name": "node_exception_handling",
+  "version": "1.0.0",
+  "description": "To test uncaught exception handling in node.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch index.js",
+    "make-file":"cat test.txt"
+  },
+  "author": "Harshit Bhawsar",
+  "license": "ISC"
+}
