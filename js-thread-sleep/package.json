@@ -1,0 +1,11 @@
+{
+  "name": "js-thread-sleep",
+  "version": "1.0.0",
+  "description": "A short project to demonstrate how to sleep the main thread in js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "harshitScript",
+  "license": "ISC"
+}
