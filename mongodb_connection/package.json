@@ -1,0 +1,23 @@
+{
+  "name": "mongodb_connection",
+  "version": "1.0.0",
+  "description": "A Short project to display how to make mongodb connection for single tenant and multi-tenant server",
+  "keywords": [
+    "mongodb",
+    "mongoose",
+    "connection"
+  ],
+  "license": "ISC",
+  "author": "@harshitScript",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "connect:single-tenant": "node ./single_tenant_flow/connect.js",
+    "connect:multi-tenant": "node ./multi_tenant_flow/connect.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "mongodb": "^6.12.0",
+    "mongoose": "^8.9.2"
+  }
+}
